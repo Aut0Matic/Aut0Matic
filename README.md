@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aut0Matic
-- 👀 I’m interested in Python, Computer Science and Computer Engineering
+- 👀 I’m interested in Python, C, C++, Computer Science and Computer Engineering
 - 🌱 I’m currently studying Electrical and Electronic Engineering (Computer Engineering Major) and Computer/Mathematical Sciences (Computer Science Major).
 
 <!---
